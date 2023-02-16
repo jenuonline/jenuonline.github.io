@@ -1,5 +1,4 @@
-Welcome to St. Paul's Orthodox Church's website
-
+ 
 This website is developed using HTML 5 and CSS 3. HTML 5 provides the structure and content of the website, while CSS 3 styles and enhances the visual appearance.
 
 Requirements

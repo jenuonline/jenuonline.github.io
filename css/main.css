@@ -67,7 +67,7 @@
  * # custom block grid STACK breakpoints
  *
  * ------------------------------------------------------------------- */
-@media screen and (max-width:1000px) {
+ @media screen and (max-width:1000px) {
   .block-1000-full > .column {
     -webkit-flex: 0 0 100%;
     -ms-flex: 0 0 100%;
