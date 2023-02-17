@@ -1,7 +1,5 @@
 /* =================================================================== 
- *  Hesed Main Stylesheet
- *  Template Ver. 1.0.0
- *  06-26-2019
+ * Main Stylesheet
  *  ------------------------------------------------------------------
  *
  *  TOC:
@@ -3389,6 +3387,10 @@ html.no-csstransitions .hero-content {
 
 .page-header--about {
   background-image: url(../images/header-bgs/about-header-bg-2000.jpg);
+}
+
+.page-header--administration {
+  background-image: url(../images/header-bgs/administration-header-bg-2000.jpg);
 }
 
 .page-header--contact {
