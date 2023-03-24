@@ -3401,6 +3401,9 @@ html.no-csstransitions .hero-content {
   background-image: url(../images/header-bgs/administration-header-bg-2000.jpg);
 }
 
+.page-header--welcome {
+  background-image: url(../images/header-bgs/welcome-header-bg-2000.jpg);
+}
 .page-header--contact {
   background-image: url(../images/header-bgs/contact-header-bg-2000.jpg);
 }
