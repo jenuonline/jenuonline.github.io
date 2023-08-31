@@ -3412,6 +3412,9 @@ html.no-csstransitions .hero-content {
   background-image: url(../images/header-bgs/events-header-bg-2000.jpg);
 }
 
+.page-header--consecration {
+  background-image: url(../images/header-bgs/consecration-header-bg-2000.jpg);
+}
 .page-header--connect {
   background-image: url(../images/header-bgs/connect-header-bg-2000.jpg);
 }
