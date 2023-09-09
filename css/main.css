@@ -1392,7 +1392,7 @@ input::-moz-focus-inner {
  * ## alert box
  * ------------------------------------------------------------------- */
 .alert-box {
-  padding: 3rem 4rem 0rem 3rem;
+  padding: 3rem 3rem 3rem 3rem;
   position: relative;
   margin-bottom: 1rem;
   border-radius: 1px;
